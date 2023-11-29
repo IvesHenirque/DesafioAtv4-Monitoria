@@ -1,0 +1,3 @@
+/cygdrive/c/Users/Ivees/CLionProjects/DesafioAtv4-Monitoria-Matriz/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/Ivees/CLionProjects/DesafioAtv4-Monitoria-Matriz/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/Ivees/CLionProjects/DesafioAtv4-Monitoria-Matriz/cmake-build-debug/CMakeFiles/DesafioAtv4_Monitoria_Matriz.dir

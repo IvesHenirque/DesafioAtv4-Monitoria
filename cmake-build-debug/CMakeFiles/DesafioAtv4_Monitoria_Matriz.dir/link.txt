@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/DesafioAtv4_Monitoria_Matriz.dir/main.c.o  -o DesafioAtv4_Monitoria_Matriz.exe -Wl,--out-implib,libDesafioAtv4_Monitoria_Matriz.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
